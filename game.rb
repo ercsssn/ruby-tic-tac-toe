@@ -1,3 +1,5 @@
+require_relative 'display_text.rb'
+
 class Game
   include Display
 
