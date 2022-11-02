@@ -8,10 +8,6 @@ class Game
     @second_player = nil
     @current_player = nil
   end
-
-  def game_start
-    puts welcome_text
-  end
   
   def play
     game_start
